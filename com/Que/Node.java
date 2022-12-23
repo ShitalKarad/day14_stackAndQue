@@ -1,4 +1,4 @@
-package com.brigelabz;
+package com.Que;
 
 public class Node<T> {
     T key;
